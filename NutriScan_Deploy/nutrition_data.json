@@ -1,0 +1,16 @@
+{
+    "CHICKEN": { "calories": 239, "protein": 27, "carbs": 0, "fat": 14 },
+    "BERRIES": { "calories": 57, "protein": 0.7, "carbs": 14, "fat": 0.3 },
+    "HIGH SUGAR FRUITS": { "calories": 89, "protein": 1.1, "carbs": 23, "fat": 0.3 },
+    "COOKING VEGS": { "calories": 65, "protein": 2.9, "carbs": 13, "fat": 0.2 },
+    "OATMEAL/CEREALS": { "calories": 68, "protein": 2.4, "carbs": 12, "fat": 1.4 },
+    "PORK": { "calories": 242, "protein": 27, "carbs": 0, "fat": 14 },
+    "BEEF": { "calories": 250, "protein": 26, "carbs": 0, "fat": 15 },
+    "PIZZA": { "calories": 266, "protein": 11, "carbs": 33, "fat": 10 },
+    "POTATOES": { "calories": 77, "protein": 2, "carbs": 17, "fat": 0.1 },
+    "LEAFY GREENS": { "calories": 23, "protein": 2.9, "carbs": 3.6, "fat": 0.4 },
+    "EGGS": { "calories": 155, "protein": 13, "carbs": 1.1, "fat": 11 },
+    "LEGUMES": { "calories": 127, "protein": 9, "carbs": 22, "fat": 0.5 },
+    "RICE": { "calories": 130, "protein": 2.7, "carbs": 28, "fat": 0.3 },
+    "FISH": { "calories": 206, "protein": 22, "carbs": 0, "fat": 12 }
+}

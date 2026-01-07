@@ -1,0 +1,8 @@
+streamlit
+transformers
+pillow
+numpy
+torch
+torchvision
+pytz
+plotly
