@@ -22,6 +22,7 @@ NutriScan_Deploy/
 ## Prerequisites
 
 - Docker: Ensure Docker is installed and running on your machine.
+- Git LFS: Make sure Git Large File Storage is installed and initialized.
 
 
 ## Quick Start (Docker)
