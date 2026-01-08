@@ -76,3 +76,9 @@ The build process uses a specific layering strategy to cache dependencies, allow
 If the application predicts an "Unknown" class (e.g., Class 12), it means the model's internal configuration does not contain the semantic names.
 
 >Fix: The app.py includes a fallback manual mapping list (LABELS) derived from the training dataset. Ensure this list matches the alphabetical order of your classes.
+
+### Troubleshooting "Model not loaded"
+
+If the application throws a "Model not loaded" error when trying to analyze the image, most likely something went wrong with the git lfs download of the model.safetensor file.
+
+>Fix: Download the whole repository as a zip file, extract the files and run the application from there.
